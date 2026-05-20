@@ -1,0 +1,1 @@
+export default function PeopleList() { return <div>People List</div> }

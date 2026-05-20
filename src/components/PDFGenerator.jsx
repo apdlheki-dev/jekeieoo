@@ -1,0 +1,1 @@
+export default function PDFGenerator() { return <div>PDF Generator</div> }
